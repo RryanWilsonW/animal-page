@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: aqua;
+    border: black solid 10px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
+    width: 80%;
+    height: 120px;
+
+}
+
+h1 {
+    font-size: 60px;
+}
+
+header li {
+    display: inline;
+    padding-right: 40px;
+    font-size: 20px;
+    list-style: none;
+}
+
+#img1 {
+    width: 9%;
+    float: left;
+    border-radius: 100%;
+    
+}
+
+#img2 {
+    width: 9%;
+    float: right;
+    border-radius: 100%;
+}
+
+#img3 {
+    border-radius: 45%;
+    height: 400px;
+    width: 33.3%;
+    float: left;
+}
+.intro {
+    display: inline-block;
+    font-size: 20px;
+    background-color: aquamarine;
+    border: black solid 10px;
+    padding: 10px;
+}
+
+.intro p {
+    padding-top: 140px;
+    float: left;
+    width: 33.3%;
+    margin-right: 100px;
+    margin-left: 80px;
+    line-height: 30px;
+}
+
+p {
+    font-size: 25px;
+}
+
+.species {
+    margin-top: 60px;
+    line-height: 30px;
+}
+
+ol {
+    display: inline-block;
+}
+
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.habitat {
+    width: 49%;
+    background-color: aqua;
+    text-align: center;
+    border: black solid 10px;
+    border-bottom: 5px;
+    border-top: 5px;
+    border-right: 0px;
+    display: inline-block;
+}
+
+.info img {
+    width: 50%;
+    height: 250px;
+}
+
+.diet {
+    width: 49%;
+    background-color: aqua;
+    text-align: center;
+    border: black solid 10px;
+    border-bottom: 5px;
+    border-top: 5px;
+    border-left: 0px;
+    float: right;
+}
+
+.mateing {
+    text-align: center;
+    background-color: aquamarine;
+    border: black solid 10px;
+}
+a {
+    color: black;
+}
+
+footer {
+    background-color: aqua;
+    text-align: center;
+    line-height: 10px;
+    padding: 20px;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+
+#middle {
+    background-color: black;
+}
